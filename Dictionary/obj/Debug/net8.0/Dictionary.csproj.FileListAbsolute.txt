@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.exe
+E:\DATASTRUCTURES\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+E:\DATASTRUCTURES\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.dll
+E:\DATASTRUCTURES\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.dll
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

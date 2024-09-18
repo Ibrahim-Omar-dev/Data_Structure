@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.exe
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.deps.json
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.dll
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.pdb
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.dll
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\refint\BinarySearchTree.dll
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.pdb
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\BinarySearchTree\obj\Debug\net8.0\ref\BinarySearchTree.dll

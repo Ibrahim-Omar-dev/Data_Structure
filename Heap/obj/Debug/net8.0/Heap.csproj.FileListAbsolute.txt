@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\Heap\bin\Debug\net8.0\Heap.exe
+E:\DATASTRUCTURES\DataStructures\Heap\bin\Debug\net8.0\Heap.deps.json
+E:\DATASTRUCTURES\DataStructures\Heap\bin\Debug\net8.0\Heap.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\Heap\bin\Debug\net8.0\Heap.dll
+E:\DATASTRUCTURES\DataStructures\Heap\bin\Debug\net8.0\Heap.pdb
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.dll
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\refint\Heap.dll
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.pdb
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\Heap.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\Heap\obj\Debug\net8.0\ref\Heap.dll

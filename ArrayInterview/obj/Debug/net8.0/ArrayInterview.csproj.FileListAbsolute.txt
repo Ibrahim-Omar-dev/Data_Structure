@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\bin\Debug\net8.0\ArrayInterview.exe
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\bin\Debug\net8.0\ArrayInterview.deps.json
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\bin\Debug\net8.0\ArrayInterview.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\bin\Debug\net8.0\ArrayInterview.dll
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\bin\Debug\net8.0\ArrayInterview.pdb
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.dll
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\refint\ArrayInterview.dll
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.pdb
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ArrayInterview.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\ArrayInterview\obj\Debug\net8.0\ref\ArrayInterview.dll

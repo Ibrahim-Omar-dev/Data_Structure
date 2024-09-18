@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\LinkedList\bin\Debug\net8.0\LinkedList.exe
+E:\DATASTRUCTURES\DataStructures\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+E:\DATASTRUCTURES\DataStructures\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\LinkedList\bin\Debug\net8.0\LinkedList.dll
+E:\DATASTRUCTURES\DataStructures\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.dll
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

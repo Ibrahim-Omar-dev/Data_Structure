@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\bin\Debug\net8.0\QueueUsingArray.exe
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\bin\Debug\net8.0\QueueUsingArray.deps.json
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\bin\Debug\net8.0\QueueUsingArray.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\bin\Debug\net8.0\QueueUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\bin\Debug\net8.0\QueueUsingArray.pdb
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\refint\QueueUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.pdb
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\QueueUsingArray.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\QueueUsingArray\obj\Debug\net8.0\ref\QueueUsingArray.dll

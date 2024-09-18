@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\bin\Debug\net8.0\StackUsingArray.exe
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\bin\Debug\net8.0\StackUsingArray.deps.json
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\bin\Debug\net8.0\StackUsingArray.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\bin\Debug\net8.0\StackUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\bin\Debug\net8.0\StackUsingArray.pdb
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\refint\StackUsingArray.dll
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.pdb
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\StackUsingArray.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\StackUsingArray\obj\Debug\net8.0\ref\StackUsingArray.dll

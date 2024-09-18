@@ -1,0 +1,14 @@
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.exe
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.deps.json
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.runtimeconfig.json
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.dll
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\bin\Debug\net8.0\DoublyLinkedList.pdb
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.AssemblyInfoInputs.cache
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.AssemblyInfo.cs
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.dll
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\refint\DoublyLinkedList.dll
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.pdb
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\DoublyLinkedList.genruntimeconfig.cache
+E:\DATASTRUCTURES\DataStructures\DoublyLinkedList\obj\Debug\net8.0\ref\DoublyLinkedList.dll
